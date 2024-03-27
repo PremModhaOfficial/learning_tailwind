@@ -1,0 +1,16 @@
+#+title: Readme
+
+
+* Getting stated
+** CDN
+#+begin_src html
+
+<html lang="en">
+
+  <head>
+        <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+
+</html>
+
+#+end_src
